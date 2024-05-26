@@ -1,0 +1,702 @@
+[
+      {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Corolla",
+        "registration_date": "2020-03-15",
+        "owner_id": 101
+      },
+      {
+        "id": 2,
+        "brand": "Honda",
+        "model": "Civic",
+        "registration_date": "2018-07-22",
+        "owner_id": 102
+      },
+      {
+        "id": 3,
+        "brand": "Ford",
+        "model": "Mustang",
+        "registration_date": "2019-11-30",
+        "owner_id": 103
+      },
+      {
+        "id": 4,
+        "brand": "Tesla",
+        "model": "Model S",
+        "registration_date": "2021-05-14",
+        "owner_id": 104
+      },
+      {
+        "id": 5,
+        "brand": "BMW",
+        "model": "X5",
+        "registration_date": "2017-09-18",
+        "owner_id": 105
+      },
+      {
+        "id": 6,
+        "brand": "Toyota",
+        "model": "Camry",
+        "registration_date": "2019-08-01",
+        "owner_id": 106
+      },
+      {
+        "id": 7,
+        "brand": "Honda",
+        "model": "Accord",
+        "registration_date": "2016-11-21",
+        "owner_id": 107
+      },
+      {
+        "id": 8,
+        "brand": "Ford",
+        "model": "Explorer",
+        "registration_date": "2020-01-10",
+        "owner_id": 108
+      },
+      {
+        "id": 9,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "registration_date": "2021-09-05",
+        "owner_id": 109
+      },
+      {
+        "id": 10,
+        "brand": "BMW",
+        "model": "3 Series",
+        "registration_date": "2018-04-23",
+        "owner_id": 110
+      },
+      {
+        "id": 11,
+        "brand": "Toyota",
+        "model": "Highlander",
+        "registration_date": "2019-03-15",
+        "owner_id": 111
+      },
+      {
+        "id": 12,
+        "brand": "Honda",
+        "model": "Pilot",
+        "registration_date": "2017-07-22",
+        "owner_id": 112
+      },
+      {
+        "id": 13,
+        "brand": "Ford",
+        "model": "F-150",
+        "registration_date": "2021-11-30",
+        "owner_id": 113
+      },
+      {
+        "id": 14,
+        "brand": "Tesla",
+        "model": "Model X",
+        "registration_date": "2022-05-14",
+        "owner_id": 114
+      },
+      {
+        "id": 15,
+        "brand": "BMW",
+        "model": "5 Series",
+        "registration_date": "2017-09-18",
+        "owner_id": 115
+      },
+      {
+        "id": 16,
+        "brand": "Toyota",
+        "model": "RAV4",
+        "registration_date": "2019-08-01",
+        "owner_id": 116
+      },
+      {
+        "id": 17,
+        "brand": "Honda",
+        "model": "CR-V",
+        "registration_date": "2016-11-21",
+        "owner_id": 117
+      },
+      {
+        "id": 18,
+        "brand": "Ford",
+        "model": "Escape",
+        "registration_date": "2020-01-10",
+        "owner_id": 118
+      },
+      {
+        "id": 19,
+        "brand": "Tesla",
+        "model": "Model Y",
+        "registration_date": "2021-09-05",
+        "owner_id": 119
+      },
+      {
+        "id": 20,
+        "brand": "BMW",
+        "model": "X3",
+        "registration_date": "2018-04-23",
+        "owner_id": 120
+      },
+      {
+        "id": 21,
+        "brand": "Toyota",
+        "model": "Avalon",
+        "registration_date": "2020-03-15",
+        "owner_id": 101
+      },
+      {
+        "id": 22,
+        "brand": "Honda",
+        "model": "Odyssey",
+        "registration_date": "2018-07-22",
+        "owner_id": 102
+      },
+      {
+        "id": 23,
+        "brand": "Ford",
+        "model": "Edge",
+        "registration_date": "2019-11-30",
+        "owner_id": 103
+      },
+      {
+        "id": 24,
+        "brand": "Tesla",
+        "model": "Cybertruck",
+        "registration_date": "2021-05-14",
+        "owner_id": 104
+      },
+      {
+        "id": 25,
+        "brand": "BMW",
+        "model": "Z4",
+        "registration_date": "2017-09-18",
+        "owner_id": 105
+      },
+      {
+        "id": 26,
+        "brand": "Toyota",
+        "model": "4Runner",
+        "registration_date": "2019-08-01",
+        "owner_id": 106
+      },
+      {
+        "id": 27,
+        "brand": "Honda",
+        "model": "HR-V",
+        "registration_date": "2016-11-21",
+        "owner_id": 107
+      },
+      {
+        "id": 28,
+        "brand": "Ford",
+        "model": "Bronco",
+        "registration_date": "2020-01-10",
+        "owner_id": 108
+      },
+      {
+        "id": 29,
+        "brand": "Tesla",
+        "model": "Roadster",
+        "registration_date": "2021-09-05",
+        "owner_id": 109
+      },
+      {
+        "id": 30,
+        "brand": "BMW",
+        "model": "7 Series",
+        "registration_date": "2018-04-23",
+        "owner_id": 110
+      },
+      {
+        "id": 31,
+        "brand": "Toyota",
+        "model": "Sequoia",
+        "registration_date": "2019-03-15",
+        "owner_id": 111
+      },
+      {
+        "id": 32,
+        "brand": "Honda",
+        "model": "Ridgeline",
+        "registration_date": "2017-07-22",
+        "owner_id": 112
+      },
+      {
+        "id": 33,
+        "brand": "Ford",
+        "model": "Ranger",
+        "registration_date": "2021-11-30",
+        "owner_id": 113
+      },
+      {
+        "id": 34,
+        "brand": "Tesla",
+        "model": "Semi",
+        "registration_date": "2022-05-14",
+        "owner_id": 114
+      },
+      {
+        "id": 35,
+        "brand": "BMW",
+        "model": "M3",
+        "registration_date": "2017-09-18",
+        "owner_id": 115
+      },
+      {
+        "id": 36,
+        "brand": "Toyota",
+        "model": "Tacoma",
+        "registration_date": "2019-08-01",
+        "owner_id": 116
+      },
+      {
+        "id": 37,
+        "brand": "Honda",
+        "model": "Insight",
+        "registration_date": "2016-11-21",
+        "owner_id": 117
+      },
+      {
+        "id": 38,
+        "brand": "Ford",
+        "model": "Fusion",
+        "registration_date": "2020-01-10",
+        "owner_id": 118
+      },
+      {
+        "id": 39,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "registration_date": "2021-09-05",
+        "owner_id": 119
+      },
+      {
+        "id": 40,
+        "brand": "BMW",
+        "model": "X7",
+        "registration_date": "2018-04-23",
+        "owner_id": 120
+      },
+      {
+        "id": 41,
+        "brand": "Toyota",
+        "model": "Prius",
+        "registration_date": "2020-03-15",
+        "owner_id": 101
+      },
+      {
+        "id": 42,
+        "brand": "Honda",
+        "model": "Crosstour",
+        "registration_date": "2018-07-22",
+        "owner_id": 102
+      },
+      {
+        "id": 43,
+        "brand": "Ford",
+        "model": "Taurus",
+        "registration_date": "2019-11-30",
+        "owner_id": 103
+      },
+      {
+        "id": 44,
+        "brand": "Tesla",
+        "model": "Model Y",
+        "registration_date": "2021-05-14",
+        "owner_id": 104
+      },
+      {
+        "id": 45,
+        "brand": "BMW",
+        "model": "i8",
+        "registration_date": "2017-09-18",
+        "owner_id": 105
+      },
+      {
+        "id": 46,
+        "brand": "Toyota",
+        "model": "Venza",
+        "registration_date": "2019-08-01",
+        "owner_id": 106
+      },
+      {
+        "id": 47,
+        "brand": "Honda",
+        "model": "Passport",
+        "registration_date": "2016-11-21",
+        "owner_id": 107
+      },
+      {
+        "id": 48,
+        "brand": "Ford",
+        "model": "Fiesta",
+        "registration_date": "2020-01-10",
+        "owner_id": 108
+      },
+      {
+        "id": 49,
+        "brand": "Tesla",
+        "model": "Model S",
+        "registration_date": "2021-09-05",
+        "owner_id": 109
+      },
+      {
+        "id": 50,
+        "brand": "BMW",
+        "model": "X6",
+        "registration_date": "2018-04-23",
+        "owner_id": 110
+      },
+      {
+        "id": 51,
+        "brand": "Toyota",
+        "model": "Land Cruiser",
+        "registration_date": "2019-03-15",
+        "owner_id": 111
+      },
+      {
+        "id": 52,
+        "brand": "Honda",
+        "model": "Fit",
+        "registration_date": "2017-07-22",
+        "owner_id": 112
+      },
+      {
+        "id": 53,
+        "brand": "Ford",
+        "model": "Flex",
+        "registration_date": "2021-11-30",
+        "owner_id": 113
+      },
+      {
+        "id": 54,
+        "brand": "Tesla",
+        "model": "Model X",
+        "registration_date": "2022-05-14",
+        "owner_id": 114
+      },
+      {
+        "id": 55,
+        "brand": "BMW",
+        "model": "2 Series",
+        "registration_date": "2017-09-18",
+        "owner_id": 115
+      },
+      {
+        "id": 56,
+        "brand": "Toyota",
+        "model": "Sienna",
+        "registration_date": "2019-08-01",
+        "owner_id": 116
+      },
+      {
+        "id": 57,
+        "brand": "Honda",
+        "model": "Element",
+        "registration_date": "2016-11-21",
+        "owner_id": 117
+      },
+      {
+        "id": 58,
+        "brand": "Ford",
+        "model": "Focus",
+        "registration_date": "2020-01-10",
+        "owner_id": 118
+      },
+      {
+        "id": 59,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "registration_date": "2021-09-05",
+        "owner_id": 119
+      },
+      {
+        "id": 60,
+        "brand": "BMW",
+        "model": "X1",
+        "registration_date": "2018-04-23",
+        "owner_id": 120
+      },
+      {
+        "id": 61,
+        "brand": "Toyota",
+        "model": "Corolla",
+        "registration_date": "2020-03-15",
+        "owner_id": 101
+      },
+      {
+        "id": 62,
+        "brand": "Honda",
+        "model": "Civic",
+        "registration_date": "2018-07-22",
+        "owner_id": 102
+      },
+      {
+        "id": 63,
+        "brand": "Ford",
+        "model": "Mustang",
+        "registration_date": "2019-11-30",
+        "owner_id": 103
+      },
+      {
+        "id": 64,
+        "brand": "Tesla",
+        "model": "Model S",
+        "registration_date": "2021-05-14",
+        "owner_id": 104
+      },
+      {
+        "id": 65,
+        "brand": "BMW",
+        "model": "X5",
+        "registration_date": "2017-09-18",
+        "owner_id": 105
+      },
+      {
+        "id": 66,
+        "brand": "Toyota",
+        "model": "Camry",
+        "registration_date": "2019-08-01",
+        "owner_id": 106
+      },
+      {
+        "id": 67,
+        "brand": "Honda",
+        "model": "Accord",
+        "registration_date": "2016-11-21",
+        "owner_id": 107
+      },
+      {
+        "id": 68,
+        "brand": "Ford",
+        "model": "Explorer",
+        "registration_date": "2020-01-10",
+        "owner_id": 108
+      },
+      {
+        "id": 69,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "registration_date": "2021-09-05",
+        "owner_id": 109
+      },
+      {
+        "id": 70,
+        "brand": "BMW",
+        "model": "3 Series",
+        "registration_date": "2018-04-23",
+        "owner_id": 110
+      },
+      {
+        "id": 71,
+        "brand": "Toyota",
+        "model": "Highlander",
+        "registration_date": "2019-03-15",
+        "owner_id": 111
+      },
+      {
+        "id": 72,
+        "brand": "Honda",
+        "model": "Pilot",
+        "registration_date": "2017-07-22",
+        "owner_id": 112
+      },
+      {
+        "id": 73,
+        "brand": "Ford",
+        "model": "F-150",
+        "registration_date": "2021-11-30",
+        "owner_id": 113
+      },
+      {
+        "id": 74,
+        "brand": "Tesla",
+        "model": "Model X",
+        "registration_date": "2022-05-14",
+        "owner_id": 114
+      },
+      {
+        "id": 75,
+        "brand": "BMW",
+        "model": "5 Series",
+        "registration_date": "2017-09-18",
+        "owner_id": 115
+      },
+      {
+        "id": 76,
+        "brand": "Toyota",
+        "model": "RAV4",
+        "registration_date": "2019-08-01",
+        "owner_id": 116
+      },
+      {
+        "id": 77,
+        "brand": "Honda",
+        "model": "CR-V",
+        "registration_date": "2016-11-21",
+        "owner_id": 117
+      },
+      {
+        "id": 78,
+        "brand": "Ford",
+        "model": "Escape",
+        "registration_date": "2020-01-10",
+        "owner_id": 118
+      },
+      {
+        "id": 79,
+        "brand": "Tesla",
+        "model": "Model Y",
+        "registration_date": "2021-09-05",
+        "owner_id": 119
+      },
+      {
+        "id": 80,
+        "brand": "BMW",
+        "model": "X3",
+        "registration_date": "2018-04-23",
+        "owner_id": 120
+      },
+      {
+        "id": 81,
+        "brand": "Toyota",
+        "model": "Avalon",
+        "registration_date": "2020-03-15",
+        "owner_id": 101
+      },
+      {
+        "id": 82,
+        "brand": "Honda",
+        "model": "Odyssey",
+        "registration_date": "2018-07-22",
+        "owner_id": 102
+      },
+      {
+        "id": 83,
+        "brand": "Ford",
+        "model": "Edge",
+        "registration_date": "2019-11-30",
+        "owner_id": 103
+      },
+      {
+        "id": 84,
+        "brand": "Tesla",
+        "model": "Cybertruck",
+        "registration_date": "2021-05-14",
+        "owner_id": 104
+      },
+      {
+        "id": 85,
+        "brand": "BMW",
+        "model": "Z4",
+        "registration_date": "2017-09-18",
+        "owner_id": 105
+      },
+      {
+        "id": 86,
+        "brand": "Toyota",
+        "model": "4Runner",
+        "registration_date": "2019-08-01",
+        "owner_id": 106
+      },
+      {
+        "id": 87,
+        "brand": "Honda",
+        "model": "HR-V",
+        "registration_date": "2016-11-21",
+        "owner_id": 107
+      },
+      {
+        "id": 88,
+        "brand": "Ford",
+        "model": "Bronco",
+        "registration_date": "2020-01-10",
+        "owner_id": 108
+      },
+      {
+        "id": 89,
+        "brand": "Tesla",
+        "model": "Roadster",
+        "registration_date": "2021-09-05",
+        "owner_id": 109
+      },
+      {
+        "id": 90,
+        "brand": "BMW",
+        "model": "7 Series",
+        "registration_date": "2018-04-23",
+        "owner_id": 110
+      },
+      {
+        "id": 91,
+        "brand": "Toyota",
+        "model": "Sequoia",
+        "registration_date": "2019-03-15",
+        "owner_id": 111
+      },
+      {
+        "id": 92,
+        "brand": "Honda",
+        "model": "Ridgeline",
+        "registration_date": "2017-07-22",
+        "owner_id": 112
+      },
+      {
+        "id": 93,
+        "brand": "Ford",
+        "model": "Ranger",
+        "registration_date": "2021-11-30",
+        "owner_id": 113
+      },
+      {
+        "id": 94,
+        "brand": "Tesla",
+        "model": "Semi",
+        "registration_date": "2022-05-14",
+        "owner_id": 114
+      },
+      {
+        "id": 95,
+        "brand": "BMW",
+        "model": "M3",
+        "registration_date": "2017-09-18",
+        "owner_id": 115
+      },
+      {
+        "id": 96,
+        "brand": "Toyota",
+        "model": "Tacoma",
+        "registration_date": "2019-08-01",
+        "owner_id": 116
+      },
+      {
+        "id": 97,
+        "brand": "Honda",
+        "model": "Insight",
+        "registration_date": "2016-11-21",
+        "owner_id": 117
+      },
+      {
+        "id": 98,
+        "brand": "Ford",
+        "model": "Fusion",
+        "registration_date": "2020-01-10",
+        "owner_id": 118
+      },
+      {
+        "id": 99,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "registration_date": "2021-09-05",
+        "owner_id": 119
+      },
+      {
+        "id": 100,
+        "brand": "BMW",
+        "model": "X7",
+        "registration_date": "2018-04-23",
+        "owner_id": 120
+      }
+]
